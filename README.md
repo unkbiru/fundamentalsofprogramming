@@ -1,5 +1,5 @@
-# Fundamentals Of Programming
-### by: Elzero Web School!
-* Programming Language: C++
+# مسار أساسيات البرمجة
+### بواسطة: Elzero Web School!
+* اللغة المستخدمة: C++
 ---
-The complete path to establishing programming education before choosing a career in the world of programming
+المسار الكامل للتأسيس في تعلم البرمجة قبل إختيار المجال الوظيفي في عالم البرمجة.
